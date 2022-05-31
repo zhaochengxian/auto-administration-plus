@@ -1,4 +1,4 @@
-# auto-administration（自动化招聘的工具-加强版）
+# auto-administration-plus（自动化招聘的工具-加强版）
 In your life, have you ever met recruiters? Looking for recruiters one by one is not only boring, but also a waste of time. Now you just need to follow the steps, just configure them once, and then you can fish at ease
 （生活中，你有没有遇到过招聘人，一个一个的寻找，这种不仅枯燥，而且浪费时间，现在你只需要按照一下步骤就可以了，只需配置一次，然后你就可以安心的摸鱼了
 ）
