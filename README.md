@@ -13,8 +13,10 @@ In your life, have you ever met recruiters? Looking for recruiters one by one is
  
 ```
 
-## second(找到代码中的config.ts将对应的经验，年龄，大学，性别，工作过的公司个数等改成你想要的即可)
-
+## second
+```
+(找到代码中的config.ts将对应的经验，年龄，大学，性别，工作过的公司个数等改成你想要的即可)
+```
 ## three 
 ```
  用电脑打开boss直聘，登录自己的账号，找到人才页面把链接复制替换掉代码中test文件下look.spec.ts下的链接
